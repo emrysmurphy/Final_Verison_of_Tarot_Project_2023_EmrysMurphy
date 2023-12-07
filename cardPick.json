@@ -1,0 +1,10 @@
+{
+    "start": "Just the general reading? Let's begin. %Your first card is the past: %$card1. %The second card is your present: %$card2. %Finally, the third card, your future: %$card3.",
+
+    "card1": "The Fool | The Fool, reversed | The Emperor | The Emperor, reversed | Strength | Strength, reversed | The Hanged Man | The Hanged Man, reversed | The Tower | The Tower, reversed | Judgement | Judgement, reversed | The Hermit | The Hermit, reversed | Death | Death, reversed | The Star | The Star, reversed | The Chariot | The Chariot, reversed | The Sun | The Sun, reversed | The Knight of Wands | Two of Wands | Eight of Wands | Four of Wands | Six of Wands | Ace of Cups | Five of Cups | Nine of Cups | Queen of Cups | Eight of Cups | King of Swords | Tens of Swords | Six of Swords | Two of Swords | Page of Pentacles | Seven of Pentacles | Three of Pentacles | King of Pentacles | Six of Pentacles", 
+
+    "card2": "The Magician | The Magician, reversed | The Hierophant | The Hierophant, reversed |The Hermit | The Hermit, reversed | Death | Death, reversed | The Star | The Star, reversed | Justice | Justice, reversed | King of Wands | Three of Wands | Nine of Wands | Seven of Wands | Ace of Wands | Two of Cups | Six of Cups | Ten of Cups | King of Cups | Knight of Cups | Knight of Swords | Nine of Swords | Five of Swords | Ace of Swords | Knight of Pentacles | Eight of Pentacles | Four of Pentacles | Ten of Pentacles",
+
+    "card3": "The High Priestess | The High Priestess, reversed | The Lovers | The Lovers, resersed | The Wheel of Fortune | The Wheel of Fortune, reversed | Temperance | Temperance, reversed | The Moon | The Moon, reversed | The Empress | The Empress, reversed | The Devil | The Devil, reversed | Queen of Wands | Five of Wands | Ten of Wands | Page of Wands | Three of Cups | Seven of Cups | Page of Cups | Four of Cups | Queen of Swords | Eight of Swords | Three of Swords | Page of Swords | Queen of Pentacles | Nine of Pentacles | Five of Pentacles | Ace of Pentacles | Two of Pentacles"
+
+}
